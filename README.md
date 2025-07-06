@@ -10,3 +10,4 @@ The project aims to perform the following tasks:
 
 ### TechStack
 
+![image](https://imgur.com/a/rYZNJ6V)
