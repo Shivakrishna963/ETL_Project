@@ -11,3 +11,7 @@ The project aims to perform the following tasks:
 ### TechStack
 
 ![image](https://i.imgur.com/DW5KXOW.png)
+
+#### Architecture
+
+![image](https://i.imgur.com/euTCKpE.png)
